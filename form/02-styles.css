@@ -857,7 +857,7 @@ html {
       }
 
       fieldset{
-        flex: display;
+        display: flex;
         flex-direction: column;
         justify-content: flex-start;
         padding: 0 0 2rem;
